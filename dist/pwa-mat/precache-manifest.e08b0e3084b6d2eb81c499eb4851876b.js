@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.e90e3ef.woff2"
   },
   {
-    "revision": "8c4650c8d413251f790d59dcee77fca8",
+    "revision": "cc40341af0d36f5600bb2b1b4ec1b569",
     "url": "index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "statics/icons/ms-icon-144x144.png"
   },
   {
-    "revision": "ce61603b4cefecef61cc",
-    "url": "js/2.ce61603.js"
+    "revision": "3b672b685d38e302764e",
+    "url": "js/2.3b672b6.js"
   },
   {
     "revision": "d6e76edab191588b767a",
@@ -40,24 +40,12 @@ self.__precacheManifest = [
     "url": "statics/icons/icon-384x384.png"
   },
   {
-    "revision": "20c6420ccf16a07d9d56538e30a6b524",
-    "url": "statics/icons/icon-256x256.png"
-  },
-  {
     "revision": "8c4120b4e88276badbc808e518572fad",
     "url": "statics/icons/icon-192x192.png"
   },
   {
-    "revision": "3020c8ac2c2872dec7741e5948520093",
-    "url": "statics/icons/icon-128x128.png"
-  },
-  {
-    "revision": "2f9d7587924933c1912c342b190b53ca",
-    "url": "statics/icons/favicon-32x32.png"
-  },
-  {
-    "revision": "450cf513bfd8c1eae049",
-    "url": "js/app.abaab1c.js"
+    "revision": "20c6420ccf16a07d9d56538e30a6b524",
+    "url": "statics/icons/icon-256x256.png"
   },
   {
     "revision": "efb00e57304380d857603760600da5d5",
@@ -66,6 +54,18 @@ self.__precacheManifest = [
   {
     "revision": "da2b422e2895b9b9c1782a71b6be9d63",
     "url": "statics/icons/apple-icon-152x152.png"
+  },
+  {
+    "revision": "95ba5d9f3feea19c844f",
+    "url": "js/app.22d2d9b.js"
+  },
+  {
+    "revision": "3020c8ac2c2872dec7741e5948520093",
+    "url": "statics/icons/icon-128x128.png"
+  },
+  {
+    "revision": "2f9d7587924933c1912c342b190b53ca",
+    "url": "statics/icons/favicon-32x32.png"
   },
   {
     "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
@@ -100,12 +100,12 @@ self.__precacheManifest = [
     "url": "fonts/KFOlCnqEu92Fr1MmEU9fBBc-.de8b743.woff"
   },
   {
-    "revision": "450cf513bfd8c1eae049",
+    "revision": "95ba5d9f3feea19c844f",
     "url": "css/app.99c79ac6.css"
   },
   {
-    "revision": "ce61603b4cefecef61cc",
-    "url": "css/2.77217f7a.css"
+    "revision": "3b672b685d38e302764e",
+    "url": "css/2.c11ee2f1.css"
   },
   {
     "revision": "fe748f001c5ec3c64a02",
