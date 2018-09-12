@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.e08b0e3084b6d2eb81c499eb4851876b.js"
+  "precache-manifest.f5cf794055bb453fb552a94271b5a99e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "poc-bluetooth"});
